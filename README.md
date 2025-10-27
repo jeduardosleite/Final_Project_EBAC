@@ -11,11 +11,20 @@ Interactive application developed in **Streamlit** to demonstrate a **default pr
 ---
 
 ## Demonstration
+
+See the demonstration on YouTube.
+
 <div align="center">
   <a href="https://www.youtube.com/watch?v=heGN2HOFCfk" target="_blank">
     <img src="https://img.youtube.com/vi/heGN2HOFCfk/0.jpg" alt="Demo Video" width="700">
   </a>
 </div>
+
+---
+
+## Explaining the code
+
+You can see the code explication in this link: https://github.com/ebac-data-science/Final_Project_Notebook
 
 ---
 
