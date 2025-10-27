@@ -1,14 +1,23 @@
-# Final Project – EBAC: Customer Scoring
+[Linkedin](https://www.linkedin.com/in/jos%C3%A9-eduardo-souza-leite/)
+---
+<h1 align="center">Final Project – EBAC: Customer Scoring</h1>
 
-<p align="center">
+<div align="center">
   <img width="794" height="347" alt="image" src="https://github.com/user-attachments/assets/b1cef944-9dc3-4e89-9832-4d7a13fcf3a1" />
-</p>
+</div>
 
 Interactive application developed in **Streamlit** to demonstrate a **default prediction model** using **Machine Learning** and a **pipeline**.
 
 ---
 
+## Demonstration
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=heGN2HOFCfk" target="_blank">
+    <img src="https://img.youtube.com/vi/heGN2HOFCfk/0.jpg" alt="Demo Video" width="700">
+  </a>
+</div>
 
+---
 
 ## Features
 - Upload a CSV file with customer data
