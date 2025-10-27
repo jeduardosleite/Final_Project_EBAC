@@ -1,4 +1,4 @@
-[Linkedin](https://www.linkedin.com/in/jos%C3%A9-eduardo-souza-leite/)
+[Linkedin](https://www.linkedin.com/in/jeduardosleite)
 
 [App Streamlit](https://ebac-jeduardo.streamlit.app/)
 
