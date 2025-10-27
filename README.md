@@ -32,7 +32,7 @@ You can see the code explication in this link: https://github.com/ebac-data-scie
 ---
 
 ## Features
-- Upload a CSV file with customer data
+- Upload a CSV file with customer data: *df_para_teste.csv*
 - Automatically preprocess the data:
   - Standardizes column names
   - Handles missing values
