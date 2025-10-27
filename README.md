@@ -1,4 +1,7 @@
 [Linkedin](https://www.linkedin.com/in/jos%C3%A9-eduardo-souza-leite/)
+
+[App Streamlit](https://ebac-jeduardo.streamlit.app/)
+
 ---
 <h1 align="center">Final Project – EBAC: Customer Scoring</h1>
 
